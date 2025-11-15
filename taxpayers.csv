@@ -1,0 +1,11 @@
+taxpayer_id,name_hash,region,taxpayer_type
+1,hash_1,Lazio,exporter
+2,hash_2,Lombardia,regular
+3,hash_3,Campania,exporter
+4,hash_4,Sicilia,regular
+5,hash_5,Veneto,regular
+6,hash_6,Emilia-Romagna,exporter
+7,hash_7,Puglia,regular
+8,hash_8,Piemonte,exporter
+9,hash_9,Toscana,regular
+10,hash_10,Marche,regular
